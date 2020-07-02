@@ -1,0 +1,15 @@
+ <section class="second-section">
+        <div class="first-design">
+            <img src="" alt="">
+        </div>
+        <div class="first-design">
+            
+                <h1>Biography</h1>
+                <p>
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita saepe facilis tempora quod. Praesentium maxime doloremque optio. Sunt optio soluta veritatis quaerat sapiente facilis sed repellat fugit natus aspernatur! Labore.
+                </p>
+                <a  class="button" target="_blank"href="https://www.facebook.com/">Download CV</a>
+            
+
+        </div>
+    </section>
